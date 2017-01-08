@@ -1,0 +1,14 @@
+{
+  "name": "2d-array-challenge",
+  "version": "1.0.0",
+  "description": "2D Array Challenge ==================",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "tape": "^4.6.3"
+  }
+}
